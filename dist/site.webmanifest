@@ -1,0 +1,9 @@
+{
+  "name": "Abhijeet Sheodarshi",
+  "short_name": "Abhijeet",
+  "description": "Portfolio of Abhijeet Sheodarshi",
+  "start_url": "/",
+  "theme_color": "#151515",
+  "background_color": "#151515",
+  "display": "standalone"
+}
